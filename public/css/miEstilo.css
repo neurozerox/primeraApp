@@ -1,0 +1,47 @@
+body{
+background-color:#DDF7FF;
+}
+
+h1{
+color: #39C;
+font-family:'Poppins', sans-serif;
+text-align:center;
+}
+
+#logueo, #guardar{
+background-color:#000;
+color:#FFF;
+border:1px solid #4FB1FF;
+font-size:16px;
+text-align:center;
+cursor:pointer;
+display:inline-block;
+margin-bottom:5px;
+}
+
+#logueo:hover, #guardar:hover{
+background-color:#97C8FF;
+color:#000;
+}
+
+#contenedor{
+width:auto;
+text-align:center;
+}
+
+#foto{
+width:50%;
+height:400px;
+margin:0 auto;
+position:relative;
+background-image:url("http://www.ninos-felices.com.mx/wp-content/uploads/2016/05/7-balnearios-DF-3.jpg");
+background-size:contain;
+background-repeat:no-repeat;
+}
+
+.img_principal{
+	margin-right:5px;
+}
+
+
+
